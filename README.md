@@ -1,6 +1,6 @@
 <h1>Rest Countries Weather Information</h1>
 
-<p>This project contains the combination of two api's listed below.This project listed all the country details and can able to get the weather details of the particular country. Also I added the Testcase validate script to website. All the testcases are passed.</p>
+<p>This project contains the combination of two api's listed below.This project listed all the country details and can able to get the weather details of the particular country. Also I added the Testcase validate script to website. All the testcases are passed.  And this website is responsive</p>
 <small><b>API's: </b></small>
 <ul>
   <li>Rest Countries API - https://restcountries.com/v3.1/all</li>
